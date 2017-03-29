@@ -1,0 +1,7 @@
+#Wed Mar 29 10:42:19 IRDT 2017
+base.0=/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3c2ae0c49ebe18c3edd02dd19b0e05382d4ad8a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18926b4b47c683e9809717c668c262f69a641cb3/classes.dex
+base.1=/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18926b4b47c683e9809717c668c262f69a641cb3
+file.0=/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3c2ae0c49ebe18c3edd02dd19b0e05382d4ad8a7/classes.dex

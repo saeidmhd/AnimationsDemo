@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin1/Documents/mahak/AnimationsDemo/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_3bee17c6965cc4d99f3aed48ce4c0567833396fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a26052510b88eb9f0b71a463f963a5fe974b284d">
+        <dex dex="/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18926b4b47c683e9809717c668c262f69a641cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17796970e728cd7bd4a8e71d61eb1336764b6b07">
+        <dex dex="/Users/admin1/Documents/mahak/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3c2ae0c49ebe18c3edd02dd19b0e05382d4ad8a7/classes.dex" />
+    </item>
+
+</items>
